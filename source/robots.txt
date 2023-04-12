@@ -1,0 +1,10 @@
+# hexo robots.txt
+User-agent: * Allow: /
+Allow: /archives/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+
+Sitemap: https://blog.flowerunbeaten.top/sitemap.xml
+Sitemap: https://blog.flowerunbeaten.top/baidusitemap.xml
