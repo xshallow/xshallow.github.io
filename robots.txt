@@ -1,0 +1,10 @@
+# hexo robots.txt
+User-agent: * Allow: /
+Allow: /archives/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+
+Sitemap: https://www.freesync.me/sitemap.xml
+Sitemap: https://www.freesync.me/baidusitemap.xml
